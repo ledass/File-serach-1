@@ -17,11 +17,6 @@ ffmpeg-python
 googletrans==4.0.0-rc1
 carbonnow==0.0.1
 Pillow
-bs4
-string-extract
-domain-extract
-hashtags_extract
-Pymoe
 pendulum
 pytesseract
 pyshorteners
@@ -34,3 +29,4 @@ gtts
 yt_dlp
 wget
 aiohttp
+
